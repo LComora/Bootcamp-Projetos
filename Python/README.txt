@@ -1,0 +1,1 @@
+Programas simples em Python desenvolvidos em meus estudos pessoais.
