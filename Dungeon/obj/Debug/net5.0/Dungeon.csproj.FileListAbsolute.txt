@@ -1,0 +1,16 @@
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.exe
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.deps.json
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.runtimeconfig.json
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.runtimeconfig.dev.json
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.dll
+C:\Workspace\Bootcamp-DIO\Dungeon\bin\Debug\net5.0\Dungeon.pdb
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.csproj.AssemblyReference.cache
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.AssemblyInfoInputs.cache
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.AssemblyInfo.cs
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.csproj.CoreCompileInputs.cache
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.dll
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\refint\Dungeon.dll
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.pdb
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\Dungeon.genruntimeconfig.cache
+C:\Workspace\Bootcamp-DIO\Dungeon\obj\Debug\net5.0\ref\Dungeon.dll
